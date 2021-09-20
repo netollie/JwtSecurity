@@ -1,1 +1,4 @@
-
+security:
+  jwt:
+    secret: "c3a4f325d8282f93c03dfb552d8f358f"
+    lifespan: 60
